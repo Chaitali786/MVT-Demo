@@ -95,16 +95,7 @@ To set up and run the project locally, follow these steps:
 - To access the Django admin interface, go to `http://127.0.0.1:8000/admin/` and log in with your superuser credentials.
 - Navigate to the `/users` page to view the list of user names and emails.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-You can customize this README template according to your project details and preferences. Make sure to replace placeholders like `[Your Name]`, `[Date of Creation]`, and `https://github.com/your_username/django-user-management.git` with your actual information and repository URL.
-
- 
